@@ -2,7 +2,7 @@
 bunnysaini/Stock-News-Alert
 
 ## Features
-A Stock News Update Program that messages you the increase or decrease in % share of the stock and the probable news that caused the fluctuation.
+A Stock News Update Program that messages you the increase or decrease in % value of the stock and the probable news that caused the fluctuation.
 
 ## Instructions to Use
 - Create a Trial Account on [Twilio](https://www.twilio.com/) - To send and receive messages with Messaging APIs
