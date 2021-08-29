@@ -1,8 +1,8 @@
 import requests
 from twilio.rest import Client
 
-STOCK = "JD"                                   # INSERT STOCK INTERESTED IN (TSLA for TESLA)
-COMPANY_NAME = "JD.com, Inc,"                  # INSERT THE COMPANY NAME
+STOCK = "TSLA"                                 # INSERT STOCK INTERESTED IN (TSLA for TESLA)
+COMPANY_NAME = "TESLA"                         # INSERT THE COMPANY NAME
 
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
